@@ -1,1 +1,1 @@
-# odin-recipies
+This is a project from the odin course. Inspired by brutalist web design apparently. # odin-recipies
